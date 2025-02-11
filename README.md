@@ -21,19 +21,18 @@ Welcome to my Quality Assurance portfolio project, which demonstrates a comprehe
 - **Thorough Test Reporting:** Detailed reports summarizing test execution, defect analysis, and recommendations for improvement
 
 ## Repository Structure
-
-📦 orange-hrm-qa-portfolio
-┣ 📂 Bug Report
-┃ ┗ 📄 Bug-Report.md
-┣ 📂 Test Plan
-┃ ┗ 📄 Test-Plan.md
-┣ 📂 Test Report
-┃ ┗ 📄 Test-Execution-Summary.md
-┣ 📂 Test Scenarios & Test Cases
-┃ ┗ 📄 Test-Scenarios-&-Test-Cases.md
-┣ 📂 Traceability Matrix
-┃ ┗ 📄 Traceability-Matrix.md
-┗ 📄 README.md
+    .
+    ├── 📂Bug Report             
+    │   └── 📄Bug-Report.md      
+    ├── 📂Test Plan             
+    │   └── 📄Test-Plan.md      
+    ├── 📂Test Report           
+    │   └── 📄Test-Execution-Summary.md   
+    ├── 📂Test Scenarios & Test Cases     
+    │   └── 📄Test-Scenarios-&-Test-Cases.md  
+    ├── 📂Traceability Matrix   
+    │   └── 📄Traceability-Matrix.md  
+    └── 📄README.md           
  
 ## Technologies and Tools
 
