@@ -1,4 +1,4 @@
-# Orange HRM Quality Assurance Portfolio Project
+# Orange HRM Quality Assurance Manual Project
 
 ## Overview
 
