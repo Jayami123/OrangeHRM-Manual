@@ -6,11 +6,11 @@ Welcome to my Quality Assurance portfolio project, which demonstrates a comprehe
 
 ## Table of Contents
 
-- [Test Plan](Test%20Plan/Test-Plan.md)
-- [Test Scenarios & Test Cases](Test%20Scenarios%20%26%20Test%20Cases/Test-Scenarios-%26-Test-Cases.md)
-- [Bug Report](Bug%20Report/Bug-Report.md)  
-- [Traceability Matrix](Traceability%20Matrix/Traceability-Matrix.md)
-- [Test Report](Test%20Report/Test-Execution-Summary.md)
+- Test Plan
+- Test Scenarios & Test Cases
+- Bug Report
+- Traceability Matrix
+- Test Report
 
 ## Project Highlights
 
