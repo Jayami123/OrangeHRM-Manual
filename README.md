@@ -22,16 +22,16 @@ Welcome to my Quality Assurance portfolio project, which demonstrates a comprehe
 
 ## Repository Structure
     .
-    ├── 📂Bug Report             
-    │   └── 📄Bug-Report.md      
     ├── 📂Test Plan             
     │   └── 📄Test-Plan.md      
-    ├── 📂Test Report           
-    │   └── 📄Test-Execution-Summary.md   
     ├── 📂Test Scenarios & Test Cases     
     │   └── 📄Test-Scenarios-&-Test-Cases.md  
+    ├── 📂Bug Report             
+    │   └── 📄Bug-Report.md      
     ├── 📂Traceability Matrix   
     │   └── 📄Traceability-Matrix.md  
+    ├── 📂Test Report           
+    │   └── 📄Test-Execution-Summary.md   
     └── 📄README.md           
  
 ## Technologies and Tools
